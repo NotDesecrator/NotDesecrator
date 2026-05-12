@@ -1,2 +1,2 @@
 - 👋 Hello World! I’m @NotDesecrator, a.k.a NotTechTonic.
-- ⚡ I'm fascinated by physics and passionate about programming.
+- ⚡ I'm fascinated by physics and I'm passionate about programming.
